@@ -21,4 +21,4 @@
 
 В основном **React, TypeScript и Next.js**. Ещё — Node.js, MobX, Vitest, Jest, GitHub Actions. Для игр и анимаций использовал Pixi.js, Canvas и Lottie.
 
-Сейчас ищу работу во фронтенде, рассматриваю удалёнку. Связаться со мной можно в [Telegram — @vapoltavecs](https://t.me/vapoltavecs).
+Сейчас ищу работу frontend разработчиком, рассматриваю удалёнку. Связаться со мной можно в [Telegram — @vapoltavecs](https://t.me/vapoltavecs).
