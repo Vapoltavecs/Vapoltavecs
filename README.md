@@ -15,8 +15,6 @@
 | [`@appss/sdk-browser`](https://github.com/engagementlabs/appss-sdk-js/tree/main/packages/browser) | Browser SDK with TMA support, localStorage persistence, sendBeacon transport | [![npm](https://img.shields.io/npm/v/@appss/sdk-browser)](https://www.npmjs.com/package/@appss/sdk-browser) | [![npm downloads](https://img.shields.io/npm/dm/@appss/sdk-browser?label=downloads)](https://www.npmjs.com/package/@appss/sdk-browser) |
 | [`@appss/sdk-node`](https://github.com/engagementlabs/appss-sdk-js/tree/main/packages/node) | Node.js SDK for server-side tracking, Telegram bot helpers (Telegraf, grammY) | [![npm](https://img.shields.io/npm/v/@appss/sdk-node)](https://www.npmjs.com/package/@appss/sdk-node) | [![npm downloads](https://img.shields.io/npm/dm/@appss/sdk-node?label=downloads)](https://www.npmjs.com/package/@appss/sdk-node) |
 
-[![Просмотры репозитория APPSS SDK за указанный период](./assets/sdk-traffic.svg)](https://github.com/engagementlabs/appss-sdk-js)
-
 ### С чем работал
 
 В основном **React, TypeScript и Next.js**. Ещё — Node.js, MobX, Vitest, Jest, GitHub Actions. Для игр и анимаций использовал Pixi.js, Canvas и Lottie.
